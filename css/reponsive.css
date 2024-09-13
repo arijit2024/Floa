@@ -1,0 +1,413 @@
+@media (min-width: 1950px) {
+    .container{
+        max-width: 1800px;
+    }
+    .our-services-area::before{
+        background-size: 100%;
+        bottom: -10px;
+        height: 320px;
+    }
+    .case-studies-area{
+        padding: 200px 0 120px 0;
+    }
+    .case-studies-area::after{
+        top: -15px;
+        height: 385px;
+    }
+    .contact-area::after{
+        top: -10px;
+        height: 323px;
+        background-size: 100%;
+    }
+    .contact-area{
+        padding-top: 250px;
+    }
+}
+@media (min-width: 2561px) {
+    .our-services-area::before {
+    height: 365px;
+}
+.our-services-area{
+    padding:120px 0 400px 0;
+}
+.case-studies-area::after {
+    height: 435px;
+}
+.case-studies-area {
+    padding: 300px 0 120px 0;
+}
+.contact-area {
+    padding-top: 300px;
+}
+.contact-area::after {
+    height: 365px;
+}
+}
+@media (max-width: 1399.98px) {
+  .banner-text-area h1 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .about-right h2,
+  .our-services-heading h2,
+  .technologies-top-txt h2,
+  .case-studies-top-right h2,
+  .contact-left-text h2 {
+    font-size: 50px;
+  }
+  .technologies-top-txt {
+    width: 80%;
+  }
+  .case-studies-bottom-box {
+    padding: 20px;
+  }
+  .contact-right-form {
+    padding: 30px;
+  }
+  .contact-right-form .text-area {
+    height: 150px;
+  }
+}
+@media (max-width: 1199.98px) {
+  .banner-text-area h1 {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 20px;
+  }
+  .banner-text-area p,
+  .our-services-cont-txt p,
+  .technologies-top-txt p,
+  .case-studies-top-right p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .about-right span,
+  .our-services-heading span,
+  .technologies-top-txt span,
+  .case-studies-top-right span {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .about-right h2,
+  .our-services-heading h2,
+  .technologies-top-txt h2,
+  .case-studies-top-right h2,
+  .contact-left-text h2 {
+    font-size: 40px;
+    line-height: 45px;
+    margin-bottom: 20px;
+  }
+  .about-right p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .our-services-area::before {
+    background-size: 100%;
+  }
+  .our-services-area {
+    padding: 120px 0 200px 0;
+  }
+  .technologieslogo-inner-box {
+    width: 45.333%;
+  }
+  .case-studies-bottom {
+    padding: 100px 50px;
+  }
+  .case-studies-bottom-boxarea {
+    gap: 25px;
+  }
+  .case-studies-bottom-box h3 {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .testimonial-slidertxt-inner {
+    padding: 30px;
+  }
+  .contact-area::after {
+    background-size: 100%;
+  }
+  .contact-area {
+    padding-top: 150px;
+  }
+  .contact-right-form label {
+    font-size: 14px;
+  }
+  .contact-right-form .text-area {
+    height: 110px;
+  }
+  .contact-left-contacts .items a {
+    font-size: 20px;
+  }
+  .contact-inner {
+    background-size: 60%, 80%;
+  }
+  .footer-links-flex {
+    display: block;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .banner-header-area {
+    background-size: cover;
+  }
+  .banner-text-area {
+    padding-bottom: 0;
+    text-align: center;
+  }
+
+  .header-area .navbar-toggler {
+    background: #fff;
+    padding: 5px 10px;
+  }
+  .header-area .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .header-area .navbar-brand {
+    width: 100px;
+  }
+  .navbar-collapse {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .header-area .nav-item {
+    margin-right: 0;
+  }
+  .header-area .nav-link {
+    padding: 10px 0 !important;
+  }
+  .header-area.navbar-fixed .navbar-collapse {
+    background: none;
+    padding: 20px 0;
+  }
+  .about-area {
+    padding: 100px 0;
+  }
+  .about-area .row:nth-child(odd) .about-right {
+    padding-right: 50px;
+  }
+  .about-area .row:nth-child(even) .about-right {
+    padding-left: 50px;
+  }
+  .about-area .row.align-items-center {
+    margin-bottom: 30px;
+  }
+  .about-area .row.align-items-center:last-child {
+    margin-bottom: 0;
+  }
+  .our-services-area {
+    padding: 100px 0 100px 0;
+  }
+  .our-services-heading {
+    width: 100%;
+  }
+  .technologies-top-txt {
+    width: 100%;
+  }
+  .our-services-cont-txt {
+    padding-top: 50px;
+  }
+  .our-services-cont-txt h3 {
+    font-size: 22px;
+  }
+  .technologieslogo-area {
+    padding: 80px 50px 50px 50px;
+  }
+  .case-studies-bottom {
+    padding: 50px 0;
+  }
+  .case-studies-area {
+    padding: 150px 0 100px 0;
+  }
+  .technologieslogo-inner-box {
+    box-shadow: 0px 20px 25px rgba(96, 96, 96, 0.12);
+  }
+  .case-studies-bottom-box h3 {
+    font-size: 22px;
+    line-height: 28px;
+  }
+  .testimonials-aarea {
+    padding: 100px 0;
+  }
+  .testimonial-slider-area {
+    scale: initial;
+  }
+  .testimonial-slider-area .owl-carousel.owl-drag .owl-item {
+    padding: 50px 0;
+  }
+  .testimonial-slidertxt.testimonial-slidertxt {
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.08);
+  }
+  .contact-area {
+    padding-top: 100px;
+  }
+  .contact-area {
+    padding-top: 100px;
+  }
+  .contact-inner {
+    padding-top: 0;
+  }
+  .contact-area {
+    padding-bottom: 100px;
+  }
+  .contact-left-img {
+    margin-top: 0;
+  }
+  .contact-left-contacts {
+    margin-top: 100px;
+  }
+  .footer-top-left {
+    padding-right: 50px;
+  }
+  .footer-top h3 {
+    font-size: 24px;
+    line-height: 28px;
+    margin-bottom: 50px;
+  }
+  .footer-area {
+    padding: 100px 0 0 0;
+  }
+  .footer-top {
+    padding-bottom: 50px;
+  }
+  .technologies-top-txt h2 span{
+      font-size: 45px;
+  }
+}
+
+@media (max-width: 767.98px) {
+    .about-area .row:nth-child(odd) .about-right {
+        padding-right: 0px;
+        margin-top: 50px;
+    }
+    .about-area .row:nth-child(even) .about-right {
+        padding-left: 0px;
+        margin-top: 50px;
+    }
+    .about-area .row:nth-child(even){
+        background-position: right 150px, top center;
+    }
+    .our-services-cont-txt::after{
+        width: 100%;
+        left: 0;
+    }
+    .about-area{
+        padding: 50px 0;
+    }
+    .our-services-area{
+        padding: 50px 0 120px 0;
+    }
+    .technologieslogo-area {
+        padding: 80px 0px 0px 0px;
+    }
+    .technologies-area{
+        margin-bottom: 50px;
+    }
+    .case-studies-area {
+        padding: 100px 0 50px 0;
+    }
+    .case-studies-bottom-box{
+        width: 100%;
+    }
+    .testimonials-aarea {
+        padding: 50px 16px 30px 16px;
+    }
+    .contact-left {
+        padding-top: 50px;
+    }
+    .contact-area::after{
+        height: 120px;
+    }
+    .contact-left-contacts .items{
+        margin-bottom: 20px;
+    }
+    .contact-area {
+        padding-bottom: 50px;
+    }
+    .footer-area {
+        padding: 50px 0 0 0;
+    }
+    .footer-top-left{
+        padding-right: 0;
+    }
+    .footer-top-left, .footer-top-md{
+        margin-bottom: 50px;
+    }
+    .footer-top h3{
+        margin-bottom: 15px;
+    }
+    .footer-top-left .navbar-brand{
+        margin: 0 auto;
+    }
+    .footer-top-left p{
+        text-align: center;
+    }
+    .social-iocn{
+        justify-content: center;
+    }
+    .footer-top-md, .footer-top-right{
+        text-align: center;
+    }
+    .footer-links-flex li{
+        width: 100%;
+    }
+    .header-area.navbar-fixed .navbar-brand{
+        width: 50px;
+    }
+    .inner-page {
+        padding: 40px 0 50px 0;
+    }
+    .technologies-top-txt h2 span{
+        font-size: 35px;
+    }
+    
+}
+@media (max-width: 575.98px) {
+    .banner-header-area{
+        padding-top: 150px;
+    }
+    .header-area {
+        padding: 20px 0 20px 0;
+    }
+    .banner-text-area h1{
+        font-size: 35px;
+    }
+    .about-right h2, .our-services-heading h2, .technologies-top-txt h2, .case-studies-top-right h2, .contact-left-text h2, .testimonial-heading h2{
+        font-size: 30px;
+        font-size: 35px;
+    }
+    .technologieslogo-inner-box {
+        width: 100%;
+    }
+    .technologieslogo-inner-area{
+        gap: 20px;
+    }
+    .contact-left{
+        flex-wrap: wrap;
+    }
+    .contact-left-img{
+        width: 60%;
+        margin: 0 auto;
+        order: 1;
+    }
+    .contact-left-text{
+        width: 100%;
+    }
+    .contact-left-contacts {
+        margin-top: 30px;
+    }
+    .contact-inner {
+        background-size: 60%, 100%;
+        background-position: left top, 90% 30%;
+    }
+    .contact-right-form-area::after{
+        display: none;
+    }
+    .form-check{
+        align-items: start;
+    }
+    .contact-right-form label{
+        width: 90%;
+    }
+    
+}
